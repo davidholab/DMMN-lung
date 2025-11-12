@@ -35,10 +35,13 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE.md) for de
 If you find our work useful, please cite our [paper](https://doi.org/10.1016/j.modpat.2025.100907):
 ```
 @article{ho2025,
-  title={Deep Learning-Based Segmentation of Lung Adenocarcinoma Whole Slide Images for Objective Grading, STAS Identification, and Mutation Prediction},
+  title={Deep Learning-Based Segmentation of Lung Adenocarcinoma Whole-Slide Images for Objective Grading, Tumor Spread Through Air Spaces Identification, and Mutation Prediction},
   author={Ho, David Joon and Chang, Jason C. and Aly, Rania G. and Nguyen, Hai Cao Truong and Adusumilli, Prasad S. and Fuchs, Thomas J. and Travis, William D. and Vanderbilt, Chad M.},
   journal={Modern Pathology},
   year={2025},
+  month={December},
+  volume={38},
+  number={12},
   pages={100907}
 }
 ```
